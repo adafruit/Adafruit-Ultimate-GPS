@@ -1948,12 +1948,6 @@
 <wire x1="17.526" y1="28.47" x2="17.548" y2="28.448" width="0.4064" layer="1"/>
 <wire x1="20.679" y1="28.702" x2="20.552" y2="28.702" width="0.4064" layer="1"/>
 <wire x1="20.552" y1="28.702" x2="20.298" y2="28.448" width="0.4064" layer="1"/>
-<polygon width="0.254" layer="1" spacing="0.2032" isolate="0.2032">
-<vertex x="0" y="0"/>
-<vertex x="0" y="33.925"/>
-<vertex x="25.4" y="33.925"/>
-<vertex x="25.4" y="0"/>
-</polygon>
 </signal>
 <signal name="3.3V">
 <contactref element="U1" pad="P$1"/>
