@@ -1803,7 +1803,7 @@
 </element>
 <element name="U2" library="microbuilder" package="SOT23-5" value="RT9193-3.3" x="22.987" y="17.248" smashed="yes" rot="R270">
 <attribute name="NAME" x="23.344" y="18.034" size="0.4064" layer="25" rot="R180"/>
-<attribute name="VALUE" x="26.694" y="16.891" size="1.4224" layer="27" font="vector"/>
+<attribute name="VALUE" x="26.059" y="16.637" size="1.4224" layer="27" font="vector"/>
 </element>
 <element name="LED1" library="microbuilder" package="CHIPLED_0805" value="FIX" x="2.183" y="21.971" smashed="yes" rot="R180">
 <attribute name="NAME" x="1.294" y="22.733" size="0.4064" layer="25" rot="R270"/>
@@ -1837,11 +1837,11 @@
 </element>
 <element name="D1" library="adafruit" package="SOD-323F" value="1N4148" x="21.844" y="10.795" smashed="yes" rot="R270">
 <attribute name="NAME" x="21.325" y="10.265" size="0.8128" layer="25" font="vector" rot="R90"/>
-<attribute name="VALUE" x="15.299" y="6.809" size="1.4224" layer="27" font="vector"/>
+<attribute name="VALUE" x="27.364" y="5.793" size="1.4224" layer="27" font="vector" rot="R90"/>
 </element>
 <element name="R3" library="microbuilder" package="0805" value="10K" x="23.725" y="10.414" smashed="yes" rot="R90">
 <attribute name="NAME" x="24.36" y="9.906" size="0.4064" layer="25" rot="R90"/>
-<attribute name="VALUE" x="27.027" y="8.255" size="1.4224" layer="27" font="vector" rot="R90"/>
+<attribute name="VALUE" x="29.313" y="7.366" size="1.4224" layer="27" font="vector" rot="R90"/>
 </element>
 <element name="B1" library="microbuilder" package="CR1220" value="CR1220" x="12.7" y="27.051" rot="MR0"/>
 <element name="FID1" library="microbuilder" package="FIDUCIAL_1MM" value="FIDUCIAL&quot;&quot;" x="18.669" y="22.479" smashed="yes"/>
